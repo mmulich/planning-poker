@@ -1,5 +1,43 @@
 # Planning Poker
 
+## Vision
+
+The planning poker application has been built
+to better facility planning and project managment
+within our (the authors of this service) team at
+[OpenStax](http://openstax.org);
+and specifically for the
+[CNX team](https://cnx.org/about/people).
+
+The application is used to better facilitate project/agile-sprint planning
+among remote team members by providing an interface
+for which estimation of work
+can be done in a realtime colaborative environment.
+The assumption is that this application is used in conjunction with
+a voice communication medium (e.g. Skype).
+
+The application will aid in tracking a teams progress/performance.
+This will give the team members a feeling of fulfilled when the sprint
+is completed (i.e. all tasks have had their exit criteria met)
+within the estimatated time frame,
+With proper estimates,
+the team will provide better work timelines for management,
+while also allowing work to remain relaxed and fun.
+As a result, better quality and more accurate implemenation will result,
+team members will be further motivated, and productively will increase.
+
+This project uses technologies used within our project stack,
+which makes it easier to modify as our feature needs expand.
+The use of existing technolgies will
+make feature development easier to approach,
+faster to implement and enable the ability to experiment.
+
+## Authors
+
+[Michael (pumazi) Mulich](https://github.com/pumazi/)
+and
+[Karen Chan](https://github.com/karenc/)
+
 ## Stories
 
 - *As a* **<role>**,
